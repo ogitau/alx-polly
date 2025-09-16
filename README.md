@@ -25,10 +25,6 @@ ALX Polly is a full‑stack polling app built with Next.js App Router, Supabase 
 ## Environment Variables
 Create `alx-polly/.env.local` with your Supabase credentials:
 
-```env
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
 
 Make sure these point to the same Supabase project where you will run the SQL schema below.
 
